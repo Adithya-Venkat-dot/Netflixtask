@@ -1,0 +1,39 @@
+* {
+    font-family: 'Karla', sans-serif;
+}
+body{
+    background-color: rgba(230,239,246,255);
+    display: flex;
+    justify-content: center;
+}
+body .content{
+    background-color: white;
+}
+body .content{
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+    flex-direction: column;
+    
+}
+body .purchase-col{
+    background-color: rgba(43,179,177,255);
+    position: relative;
+}
+body .text-col{
+    /* align-self: self-end; */
+    background-color: rgba(74,190,189,255);
+    /* left: 50%;
+    display: flex; */
+    /* flex-basis: 50%; */
+}
+ 
+.btn purchase{
+    color: aqua;
+}
+/* body .features{    
+    position: relative;
+    display: flex;
+    
+    
+} */
